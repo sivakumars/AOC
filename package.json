@@ -1,0 +1,14 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "siva",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^9.0.2"
+  }
+}
